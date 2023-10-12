@@ -45,6 +45,9 @@ namespace Pyramid
                 {
                     sprite.DOColor(Color.white, 0.2f);
                 }
+                
+                _actualColors.Clear();
+                _actualSprites.Clear();
             }
             else
             {
